@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  **.NET Full Stack Developer**
+  .NET Full Stack Developer • ASP.NET Core • Angular • SQL Server
 </h3>
 
 <p align="center">
@@ -26,15 +26,15 @@
   <a href="https://www.linkedin.com/in/abdellateef">
     <img src="https://img.icons8.com/ios-filled/32/ffffff/linkedin.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://abdellateefeid.github.io/abdellateef-portfolio/">
     <img src="https://img.icons8.com/ios-filled/32/ffffff/domain.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:abdellateef113@gmail.com">
     <img src="https://img.icons8.com/ios-filled/32/ffffff/new-post.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=sharing">
     <img src="https://img.icons8.com/ios-filled/32/22c55e/download--v1.png"/>
   </a>
