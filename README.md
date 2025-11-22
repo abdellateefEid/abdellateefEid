@@ -81,12 +81,11 @@ I'm a passionate **.NET Full Stack Developer** specialized in building scalable 
 ## 📄 My CV
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/Download%20CV-Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
 
-> ✳️ Upload your CV to Google Drive or GitHub and replace **PUT_YOUR_CV_LINK_HERE**
 
 <hr>
 
