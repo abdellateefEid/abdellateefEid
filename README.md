@@ -29,6 +29,15 @@ I'm a passionate **.NET Full Stack Developer** specialized in building scalable 
 
 <hr>
 
+## 📄 My CV
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/Download%20CV-Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+</p>
+<hr>
+
 ## 🛠 Tech Stack
 
 ### ✅ Backend
@@ -76,33 +85,9 @@ I'm a passionate **.NET Full Stack Developer** specialized in building scalable 
   </a>
 </p>
 
-<hr>
-
-## 📄 My CV
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Download%20CV-Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader">
-  </a>
-</p>
 
 
 <hr>
 
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellateefEid&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellateefEid&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdellateefEid&theme=default" />
-</p>
-
-<hr>
 
 <h3 align="center">🚀 Always Building. Always Improving.</h3>
