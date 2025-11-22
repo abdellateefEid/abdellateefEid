@@ -82,7 +82,7 @@ I'm a passionate **.NET Full Stack Developer** specialized in building scalable 
 
 <p align="center">
   <a href="PUT_YOUR_CV_LINK_HERE">
-      <img src="https://img.shields.io/badge/Download%20CV-Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader">
+      <img src="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=sharing">
   </a>
 </p>
 
