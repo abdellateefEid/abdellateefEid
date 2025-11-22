@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdellateef Eid</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/zhvIoGypgE3Qz74E1J/giphy.gif" width="300" height="150" alt="Animated GIF Welcome" />
-</p>
 
 <h3 align="center">
   **.NET Full Stack Developer**
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,sqlserver,restapi,azure" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,sqlserver,azure" />
 </p>
 
 
