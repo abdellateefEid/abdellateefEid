@@ -74,9 +74,7 @@ I'm a passionate **.NET Full Stack Developer** specialized in building scalable 
   <a href="https://github.com/abdellateefEid/Hotel-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Hotel-Management-System" />
   </a>
-  <a href="https://github.com/abdellateefEid/ITI--Online-Examination-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=ITI--Online-Examination-System" />
-  </a>
+
 </p>
 
 <p align="center">
