@@ -61,37 +61,34 @@
 
 ---
 
-<hr>
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/abdellateefEid/HumHum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=HumHum" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=HumHum&theme=tokyonight" />
   </a>
+
   <a href="https://github.com/abdellateefEid/Online_BookStore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Online_BookStore" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Online_BookStore&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdellateefEid/ITI---Online-Examination-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=ITI---Online-Examination-System" />
-</a>
-
   <a href="https://github.com/abdellateefEid/Hotel-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Hotel-Management-System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Hotel-Management-System&theme=tokyonight" />
   </a>
-  
+
+  <a href="https://github.com/abdellateefEid/ITI---Online-Examination-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=ITI---Online-Examination-System&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abdellateefEid/Weapon-Detection-System-for-Smart-Surveillance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Weapon-Detection-System-for-Smart-Surveillance" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellateefEid&repo=Weapon-Detection-System-for-Smart-Surveillance&theme=tokyonight" />
   </a>
 </p>
 
-<hr>
 ---
 
 ## 📈 GitHub Stats
