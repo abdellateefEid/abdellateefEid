@@ -2,29 +2,44 @@
 
 <h1 align="center">Hi 👋, I'm Abdellateef Eid</h1>
 
+<!-- ============ MODERN HERO ============ -->
+
+<h1 align="center">Abdellateef Eid</h1>
+
+<h3 align="center">
+  .NET Full Stack Developer • ASP.NET Core • Angular • SQL Server
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;Building+Scalable+Web+Applications;Clean+Architecture+%26+Secure+APIs" />
+  🚀 Building scalable & secure web applications
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdellateef">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdellateef%20Eid-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.icons8.com/ios-filled/32/ffffff/linkedin.png"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://abdellateefeid.github.io/abdellateef-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=githubpages">
+    <img src="https://img.icons8.com/ios-filled/32/ffffff/domain.png"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:abdellateef113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.icons8.com/ios-filled/32/ffffff/new-post.png"/>
   </a>
-
-  <a href="https://drive.google.com/file/d/1C706PQbjn_Dz23SH6tFDgu99faBHZxJ0/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=googledocs">
+  &nbsp;&nbsp;
+  <a href="YOUR_CV_LINK_HERE">
+    <img src="https://img.icons8.com/ios-filled/32/22c55e/download--v1.png"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=abdellateefEid&style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdellateefEid&label=Profile+Views&color=22c55e&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdellateefEid&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
 
 ---
 
@@ -41,7 +56,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,sql,git,github,azure,postman" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,sqlserver,git,github,azure,postman" />
 </p>
 
 ---
